@@ -4,7 +4,7 @@ echo "Pedro Henrique";
 echo 123456;
 
 
-$var = "Hello, World";
+$var = "Hello, World";//inicialização de variavel
 
 var_dump("Hello, World");
 var_dump($var);

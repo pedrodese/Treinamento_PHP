@@ -1,6 +1,6 @@
 <?php 
 
-$numberInt = 123;
+$numInt = 123;
 $numFloat = 1.5;
 $booleanFalse = false;
 $booleanTrue = true;
@@ -12,5 +12,7 @@ var_dump($booleanFalse);
 var_dump($booleanTrue);
 var_dump($numFloat);
 var_dump($numInt);
+
+
     
 ?>
